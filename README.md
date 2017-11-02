@@ -2,5 +2,5 @@
 Git 教程
 
   -feature-A
-  -fix-B
+  -fix-A and B
   -feature-C
